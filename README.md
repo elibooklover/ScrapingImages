@@ -1,11 +1,11 @@
 # ScrapingImages
-Scraping Images with Python
+Scraping Images with Python |
 Coded by Hoyeol Kim
 
 ### Scraping a Single Image File from a Website
 If you want to download a single image file from a website, use the following code from [ImageCrawling_Single.py](https://github.com/elibooklover/ScrapingImages/blob/master/ImageCrawling_Single.py):
 
-```
+```python3
 import urllib.request
 import os
 
@@ -23,7 +23,7 @@ print("complete!")
 ### Scraping Multiple Image Files from a Website
 If you want to scarp multiple files from a website, use the following code from [ImageCrawling_Multiple.py](https://github.com/elibooklover/ScrapingImages/blob/master/ImageCrawling_Multiple.py):
 
-```
+```python3
 import urllib.request
 import os
 
